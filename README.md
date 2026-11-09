@@ -2,15 +2,13 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# Track-PCC
+TrackPCC is a multi-year sentinel surveillance project that will investigate the burden and impact of Post-COVID Conditions (PCC) in diverse populations within the United States. TrackPCC entails both passive and active surveillance and long-term follow-up of cohorts in collaboration with public health, academic, and healthcare partners.
 
 ## Supplementary Data
 The link below provides supplementary data files regarding the Track PCC project data collection and post-COVID condition mapping algorithms.
 **[![Supplemental File](https://shields.io)](https://doi.org)**
-**Direct Download Link:** [Download RDS File](https://githubusercontent.com)
-
-# Track-PCC
-TrackPCC is a multi-year sentinel surveillance project that will investigate the burden and impact of Post-COVID Conditions (PCC) in diverse populations within the United States. TrackPCC entails both passive and active surveillance and long-term follow-up of cohorts in collaboration with public health, academic, and healthcare partners.
 
 ## Publications
 #### Tracking the burden, distribution, and impact of Post-COVID conditions in diverse populations for children, adolescents, and adults (Track PCC): passive and active surveillance protocols
