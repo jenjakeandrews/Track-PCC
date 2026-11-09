@@ -8,7 +8,7 @@ TrackPCC is a multi-year sentinel surveillance project that will investigate the
 
 ## Supplementary Data
 The link below provides supplementary data files regarding the Track PCC project data collection and post-COVID condition mapping algorithms.
-**[![Supplemental File](https://shields.io)](https://doi.org)**
+**[![Supplemental File](https://github.com/jenjakeandrews/Track-PCC/edit/main/README.md#:~:text=Supplement_TrackPCC%20PCC-,Algorithms,-and%20Code.xlsx)**]
 
 ## Publications
 Jones, R.M., Andrews, J.G., Dalton, A.F. et al. Tracking the burden, distribution, and impact of Post-COVID conditions in diverse populations for children, adolescents, and adults (Track PCC): passive and active surveillance protocols. BMC Public Health 24, 2345 (2024).	https://doi.org/10.1186/s12889-024-19772-4
